@@ -1,0 +1,5 @@
+Added Component: Designator=P4(ÅÅÕë_2)
+Added Pin To Net: NetName=VCC Pin=P4-1
+Added Pin To Net: NetName=GND Pin=P4-2
+Added Member To Class: ClassName=miniËÄÖá Member=Component P4 ÅÅÕë_2
+Added Room: Name=miniËÄÖá

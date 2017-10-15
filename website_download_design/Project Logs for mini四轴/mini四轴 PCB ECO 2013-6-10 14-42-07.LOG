@@ -1,0 +1,50 @@
+Added Component: Designator=Q1(IRLML2502_¶¥²ã)
+Added Component: Designator=Q3(IRLML2502_¶¥²ã)
+Added Component: Designator=Q4(IRLML2502_¶¥²ã)
+Added Component: Designator=Q5(IRLML2502_¶¥²ã)
+Added Component: Designator=S1(º¸ÅÌ_¶¥²ã)
+Added Component: Designator=S2(º¸ÅÌ_¶¥²ã)
+Added Component: Designator=S3(º¸ÅÌ_¶¥²ã)
+Added Component: Designator=S4(º¸ÅÌ_¶¥²ã)
+Added Component: Designator=S5(º¸ÅÌ_¶¥²ã)
+Added Component: Designator=S6(º¸ÅÌ_¶¥²ã)
+Added Component: Designator=S7(º¸ÅÌ_¶¥²ã)
+Added Component: Designator=S8(º¸ÅÌ_¶¥²ã)
+Added Component: Designator=XTAL1(¾§Õñ_3225_¶¥²ã)
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=M4- Pin=Q1-3
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-1
+Added Pin To Net: NetName=GND Pin=Q3-2
+Added Pin To Net: NetName=M3- Pin=Q3-3
+Added Pin To Net: NetName=NetQ4_1 Pin=Q4-1
+Added Pin To Net: NetName=GND Pin=Q4-2
+Added Pin To Net: NetName=M2- Pin=Q4-3
+Added Pin To Net: NetName=NetQ5_1 Pin=Q5-1
+Added Pin To Net: NetName=GND Pin=Q5-2
+Added Pin To Net: NetName=M1- Pin=Q5-3
+Added Pin To Net: NetName=VCC Pin=S1-1
+Added Pin To Net: NetName=M4- Pin=S2-1
+Added Pin To Net: NetName=VCC Pin=S3-1
+Added Pin To Net: NetName=M3- Pin=S4-1
+Added Pin To Net: NetName=VCC Pin=S5-1
+Added Pin To Net: NetName=M2- Pin=S6-1
+Added Pin To Net: NetName=VCC Pin=S7-1
+Added Pin To Net: NetName=M1- Pin=S8-1
+Added Pin To Net: NetName=NetC11_1 Pin=XTAL1-1
+Added Pin To Net: NetName=GND Pin=XTAL1-2
+Added Pin To Net: NetName=NetC9_1 Pin=XTAL1-3
+Added Pin To Net: NetName=GND Pin=XTAL1-4
+Added Member To Class: ClassName=miniËÄÖá Member=Component Q1 IRLML2502
+Added Member To Class: ClassName=miniËÄÖá Member=Component Q3 IRLML2502
+Added Member To Class: ClassName=miniËÄÖá Member=Component Q4 IRLML2502
+Added Member To Class: ClassName=miniËÄÖá Member=Component Q5 IRLML2502
+Added Member To Class: ClassName=miniËÄÖá Member=Component S1 
+Added Member To Class: ClassName=miniËÄÖá Member=Component S2 
+Added Member To Class: ClassName=miniËÄÖá Member=Component S3 
+Added Member To Class: ClassName=miniËÄÖá Member=Component S4 
+Added Member To Class: ClassName=miniËÄÖá Member=Component S5 
+Added Member To Class: ClassName=miniËÄÖá Member=Component S6 
+Added Member To Class: ClassName=miniËÄÖá Member=Component S7 
+Added Member To Class: ClassName=miniËÄÖá Member=Component S8 
+Added Member To Class: ClassName=miniËÄÖá Member=Component XTAL1 ¾§Õñ
