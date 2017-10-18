@@ -1,0 +1,19 @@
+Change Component Footprint: Designator=MG1 Old Footprint=PCBComponent_1 New Footprint=Motor
+Change Component Footprint: Designator=MG2 Old Footprint=PCBComponent_1 New Footprint=Motor
+Change Component Footprint: Designator=MG3 Old Footprint=PCBComponent_1 New Footprint=Motor
+Change Component Footprint: Designator=MG4 Old Footprint=PCBComponent_1 New Footprint=Motor
+Change Component Designator: OldDesignator=ESP8266 NewDesignator=ESP1
+Change Component Designator: OldDesignator=P2 NewDesignator=P1
+Change Component Designator: OldDesignator=PORT NewDesignator=PORT1
+Added Pin To Net: NetName=BAT Pin=MG1-1
+Added Pin To Net: NetName=NetMG1_2 Pin=MG1-2
+Added Pin To Net: NetName=BAT Pin=MG2-1
+Added Pin To Net: NetName=NetMG2_2 Pin=MG2-2
+Added Pin To Net: NetName=BAT Pin=MG3-1
+Added Pin To Net: NetName=NetMG3_2 Pin=MG3-2
+Added Pin To Net: NetName=BAT Pin=MG4-1
+Added Pin To Net: NetName=NetMG4_2 Pin=MG4-2
+Added Pin To Net: NetName=GND Pin=U5-1
+Change Net Name : Old Net Name=NetESP8266_3 New Net Name=NetESP1_3
+Change Net Name : Old Net Name=NetESP8266_7 New Net Name=NetESP1_7
+Added Room: Name=Drone_v1.0

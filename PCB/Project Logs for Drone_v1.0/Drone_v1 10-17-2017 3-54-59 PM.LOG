@@ -1,0 +1,9 @@
+Added Component: Designator=S1(¿ª¹Ø)
+Added Pin To Net: NetName=VCC Pin=S1-1
+Added Pin To Net: NetName=BAT Pin=S1-2
+Added Pin To Net: NetName=CBAT Pin=S1-3
+Added Pin To Net: NetName=VCC Pin=S1-5
+Added Pin To Net: NetName=VBUS Pin=S1-6
+Added Pin To Net: NetName=NetC8_1 Pin=U5-1
+Added Member To Class: ClassName=Drone_v1.0 Member=Component S1 Switch
+Added Room: Name=Drone_v1.0

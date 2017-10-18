@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=L1 Old Footprint=1206 New Footprint=0805-1
+Change Component Footprint: Designator=L2 Old Footprint=1206 New Footprint=0805-1
+Change Component Designator: OldDesignator=BMP NewDesignator=P1
+Change Component Designator: OldDesignator=ESP-03 NewDesignator=Header
+Change Component Designator: OldDesignator=POWER NewDesignator=POWER1
+Change Component Designator: OldDesignator=USB NewDesignator=J1
+Added Pin To Net: NetName=NetC8_1 Pin=U5-1
+Added Room: Name=Drone_v1.0

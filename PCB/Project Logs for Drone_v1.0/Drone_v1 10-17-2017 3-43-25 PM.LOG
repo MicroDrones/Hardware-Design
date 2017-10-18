@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=P1 NewDesignator=ESP8266
+Change Component Designator: OldDesignator=P3 NewDesignator=PORT
+Added Pin To Net: NetName=GND Pin=U5-1
+Change Net Name : Old Net Name=NetP1_3 New Net Name=NetESP8266_3
+Change Net Name : Old Net Name=NetP1_7 New Net Name=NetESP8266_7
+Added Room: Name=Drone_v1.0

@@ -1,0 +1,21 @@
+Change Component Library : Designator=Q1 Old Library=Fszhang.IntLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=Q2 Old Library=Fszhang.IntLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=Q3 Old Library=Fszhang.IntLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=Q4 Old Library=Fszhang.IntLib New Library=Miscellaneous Devices.IntLib
+Added Pin To Net: NetName=NetMG1_2 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_G Pin=Q1-2
+Added Pin To Net: NetName=AGND Pin=Q1-3
+Added Pin To Net: NetName=NetMG2_2 Pin=Q2-1
+Added Pin To Net: NetName=NetQ2_G Pin=Q2-2
+Added Pin To Net: NetName=AGND Pin=Q2-3
+Added Pin To Net: NetName=NetMG3_2 Pin=Q3-1
+Added Pin To Net: NetName=NetQ3_G Pin=Q3-2
+Added Pin To Net: NetName=AGND Pin=Q3-3
+Added Pin To Net: NetName=NetMG4_2 Pin=Q4-1
+Added Pin To Net: NetName=NetQ4_G Pin=Q4-2
+Added Pin To Net: NetName=AGND Pin=Q4-3
+Added Pin To Net: NetName=GND Pin=U5-1
+Change Net Name : Old Net Name=NetQ1_G New Net Name=NetQ1_2
+Change Net Name : Old Net Name=NetQ2_G New Net Name=NetQ2_2
+Change Net Name : Old Net Name=NetQ3_G New Net Name=NetQ3_2
+Change Net Name : Old Net Name=NetQ4_G New Net Name=NetQ4_2

@@ -1,0 +1,9 @@
+Added Component: Designator=Header(PCBComponent_1)
+Added Pin To Net: NetName=GND Pin=Header-1
+Added Pin To Net: NetName=NetHeader_3 Pin=Header-3
+Added Pin To Net: NetName=USART3_TX Pin=Header-4
+Added Pin To Net: NetName=3V3 Pin=Header-5
+Added Pin To Net: NetName=NetHeader_7 Pin=Header-7
+Added Pin To Net: NetName=USART3_RX Pin=Header-8
+Added Pin To Net: NetName=GND Pin=U5-1
+Added Member To Class: ClassName=Drone_v1.0 Member=Component Header ESP03

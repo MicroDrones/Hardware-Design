@@ -1,0 +1,18 @@
+Added Component: Designator=MG1(Motor)
+Added Component: Designator=MG2(Motor)
+Added Component: Designator=MG3(Motor)
+Added Component: Designator=MG4(Motor)
+Added Pin To Net: NetName=BAT Pin=MG1-1
+Added Pin To Net: NetName=NetMG1_2 Pin=MG1-2
+Added Pin To Net: NetName=BAT Pin=MG2-1
+Added Pin To Net: NetName=NetMG2_2 Pin=MG2-2
+Added Pin To Net: NetName=BAT Pin=MG3-1
+Added Pin To Net: NetName=NetMG3_2 Pin=MG3-2
+Added Pin To Net: NetName=BAT Pin=MG4-1
+Added Pin To Net: NetName=NetMG4_2 Pin=MG4-2
+Added Pin To Net: NetName=NetC8_1 Pin=U5-1
+Added Member To Class: ClassName=Drone_v1.0 Member=Component MG1 MOTOR AC
+Added Member To Class: ClassName=Drone_v1.0 Member=Component MG2 MOTOR AC
+Added Member To Class: ClassName=Drone_v1.0 Member=Component MG3 MOTOR AC
+Added Member To Class: ClassName=Drone_v1.0 Member=Component MG4 MOTOR AC
+Added Room: Name=Drone_v1.0
