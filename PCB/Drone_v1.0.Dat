@@ -1,0 +1,23 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Drone_v1.0.PrjPCB|ReportField=ProjectFullPath~C:\Users\Ding wenhao\Desktop\Hardware-Design\PCB\Drone_v1.0.PrjPCB|ReportField=Title~Bill of Materials For Project [Drone_v1.0.PrjPCB] (No PCB Document Selected)|ReportField=TotalQuantity~97|ReportField=ReportTime~8:19:44 PM|ReportField=ReportDate~10/18/2017|ReportField=ReportDateTime~10/18/2017 8:19:44 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~10/18/2017|ReportField=CurrentTime~8:19:11 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\Ding wenhao\Desktop\Hardware-Design\PCB\Drone_v1.0.SchDoc|ReportField=DocumentName~Drone_v1.0.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~10/18/2017|ReportField=Organization~|ReportField=ProjectName~Drone_v1.0.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~Drone_v1.0.PrjPCB|ReportField=DataSourceFullPath~C:\Users\Ding wenhao\Desktop\Hardware-Design\PCB\Drone_v1.0.PrjPCB
+0402 12pF|Capacitor|C1, C2, C4, C5, C6, C7, C8, C9, C10, C12, C13, C15, C16, C21, C22|0805-2|Cap|15
+Cap Pol|极性电解电容|C3, C11|CAP-3528|Cap Pol|2
+Cap|无极性电容|C14, C17, C18, C19, C20|0805-2|Cap|5
+Diode|二极管|D1|DIODE-1206|Diode|1
+LED0|发光二极管|D2, D3, D4, D5, D6, D7, D8, D9, D10, D11, D12, D13, D14|LED_0805|LED0|13
+ESP03||Header|PCBComponent_1|Hearder|1
+USB_M|MicroUSB接口|J1|USB_MICRO|USB_M|1
+Inductor|电感|L1, L2|0805-1|Inductor|2
+MOTOR AC||MG1, MG2, MG3, MG4|Motor|MOTOR AC|4
+BMP280|Header, 6-Pin|P1|HDR1X6|Header 6|1
+PORT|Header, 4-Pin, Dual row|PORT1|HDR2X4_CEN|Header 4X2A|1
+Header 2|Header, 2-Pin|POWER1|HDR1X2|Header 2|1
+SI2302|N-Channel MOSFET|Q1, Q2, Q3, Q4|SOT-23|MOSFET-N|4
+MOSFET-N|N-Channel MOSFET|Q5|SOT-23|MOSFET-N|1
+Res1|贴片电阻|R1, R2, R3, R4, R5, R6, R7, R8, R9, R10, R11, R12, R13, R14, R15, R16, R17, R18, R19, R20, R21, R22, R23, R24, R25, R26, R27, R28, R29, R30, R31, R32, R33, R34, R35, R36, R37|0805-2|Res1|37
+Switch||S1|开关|双刀双柄开关|1
+STM32F103C|STM32单片机48引脚|U1|LQFP-48_M|STM32F103C|1
+MIC5219||U2, U4|SOT25-5|MIC5219|2
+MPU6050||U3|QFN50P400X400X90-24N|MPU6050|1
+ME2108A||U5|SOT-223|ME2108A|1
+TP4056||U6|SOP8|TP4056|1
+Micro 3215|Crystal Oscillator|Y1|SMDXTAL3225|XTAL|1
