@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=C3 Old Footprint=CAP-3528 New Footprint=1206
+Change Component Footprint: Designator=C11 Old Footprint=CAP-3528 New Footprint=1206
+Change Component Designator: OldDesignator=POWER NewDesignator=POWER1
+Change Component Designator: OldDesignator=USB NewDesignator=J1
+Added Room: Name=Drone_v1.0

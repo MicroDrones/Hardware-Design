@@ -3,8 +3,8 @@
 
 #include "stm32f10x.h"
 
-#define ANO_DT_USE_USB_HID
-#define ANO_DT_USE_NRF24l01
+//#define ANO_DT_USE_USB_HID
+//#define ANO_DT_USE_NRF24l01
 #define ANO_DT_USE_WIFI
 #define ACC_CAL_EN
 

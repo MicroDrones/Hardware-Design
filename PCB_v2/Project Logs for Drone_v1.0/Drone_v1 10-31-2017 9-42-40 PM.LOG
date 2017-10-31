@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=NetC8_1 Pin=U5-1
+Removed Pin From Net: NetName=NetD1_1 Pin=U5-2
+Removed Member From Class: ClassName=Drone_v1.0 Member=U5
+Change Component Comment : Designator=Q1 Old Comment=MOSFET-N New Comment=SI2302
+Change Component Comment : Designator=Q2 Old Comment=MOSFET-N New Comment=SI2302
+Change Component Comment : Designator=Q3 Old Comment=MOSFET-N New Comment=SI2302
+Change Component Comment : Designator=Q4 Old Comment=MOSFET-N New Comment=SI2302
+Change Component Designator: OldDesignator=ESP-03 NewDesignator=Header
+Change Component Designator: OldDesignator=POWER NewDesignator=POWER1
+Change Component Designator: OldDesignator=USB NewDesignator=J1
+Added Room: Name=Drone_v1.0

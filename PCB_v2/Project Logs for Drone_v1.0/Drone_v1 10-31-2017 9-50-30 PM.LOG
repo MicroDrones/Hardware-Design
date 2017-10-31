@@ -1,0 +1,6 @@
+Added Component: Designator=ME2108A(SOT-89)
+Added Pin To Net: NetName=GND Pin=ME2108A-1
+Added Pin To Net: NetName=NetD1_1 Pin=ME2108A-2
+Added Pin To Net: NetName=NetC8_1 Pin=ME2108A-3
+Added Member To Class: ClassName=Drone_v1.0 Member=Component ME2108A
+Added Room: Name=Drone_v1.0
