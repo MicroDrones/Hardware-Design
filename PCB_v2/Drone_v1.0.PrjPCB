@@ -63,6 +63,90 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Drone_v1.0\Drone_v1.0.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for Drone_v1.0\Drone_v1.0.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for Drone_v1.0\Drone_v1.0.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for Drone_v1.0\Drone_v1.0.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for Drone_v1.0\Drone_v1.0.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for Drone_v1.0\Drone_v1.0.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for Drone_v1.0\Drone_v1.0.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for Drone_v1.0\Drone_v1.0.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for Drone_v1.0\Drone_v1.0.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for Drone_v1.0\Drone_v1.0.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for Drone_v1.0\Drone_v1.0.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for Drone_v1.0\Drone_v1.0.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for Drone_v1.0\Drone_v1.0.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for Drone_v1.0\Drone_v1.0.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for Drone_v1.0\Drone_v1.0.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for Drone_v1.0\Drone_v1.0.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for Drone_v1.0\Drone_v1.0.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for Drone_v1.0\Drone_v1.0.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for Drone_v1.0\Drone_v1.0.REP
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for Drone_v1.0\Drone_v1.0.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for Drone_v1.0\Drone_v1.0.TXT
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0

@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=BMP280 NewDesignator=P1
+Change Component Designator: OldDesignator=PORT NewDesignator=PORT1
+Change Component Designator: OldDesignator=Wifi NewDesignator=Header
+Added Room: Name=Drone_v1.0

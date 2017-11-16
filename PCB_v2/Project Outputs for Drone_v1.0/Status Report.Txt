@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Drone_v1.0.PrjPCB]
+   Generated File[Drone_v1.0.TXT]
+   Generated File[Drone_v1.0.LDP]
+   Generated File[Drone_v1.0.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 12:19:57 AM On 11/2/2017
