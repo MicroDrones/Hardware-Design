@@ -1,0 +1,18 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: Drone_v1.0.PcbDoc   11/29/2017  11:16:49 AM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Drone_v1.0.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        11.81mil (0.29997mm)     Round          41               17.92 Inch (455.18 mm)
+T2        19.68mil (0.49987mm)     Round          8                8.71 Inch (221.31 mm)
+T3        35.43mil (0.89992mm)     Round          34               6.12 Inch (155.42 mm)
+T4        39.37mil (1mm)           Round          2                0.20 Inch (5.08 mm)
+T5        279.53mil (7.10006mm)    Round          4                11.45 Inch (290.90 mm)
+---------------------------------------------------------------------------
+Totals                                            89               44.41 Inch (1127.89 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
